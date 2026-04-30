@@ -29,8 +29,7 @@ jupyter notebook MNIST_Digit_classification_Model.ipynb
 ```
 
 ## Results
-- Training Accuracy: ~99%
-- Test Accuracy: ~99%
+- Test Accuracy: 99.52%
 - Includes: confusion matrix, classification report, prediction on custom images
 
 ## Project Structure
